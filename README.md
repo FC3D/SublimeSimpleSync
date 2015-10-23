@@ -68,6 +68,7 @@ Files are saved to remote server automatically when you save them locally. In ca
 * [Jan van Valburg](https://github.com/jan11011977)
 
 * [中文文档](http://www.fantxi.com/blog/archives/sublime-simple-sync/)
+* [M Adnan](https://github.com/FC3D)
 
 ## License
 
